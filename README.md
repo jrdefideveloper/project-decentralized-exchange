@@ -12,7 +12,7 @@ This is more for learning.
 
 ## Orders 
 
-There will only be 
+There will (buy, sell) orders
 
 1. Limit order 
 2. Market order
